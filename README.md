@@ -4,7 +4,7 @@
 
 I'm Rodrigo Mardones Aguilar. Engineer student, coffee lover, techonolgy enthusiast and fullstack developer at ['Watermelon SPA'](http://bewatermelon.com/)  🍉.
 
-![](https://github.com/RodrigoMardones/RodrigoMardones/blob/master/carbon.png?raw=true)
+<img src="https://github.com/RodrigoMardones/RodrigoMardones/blob/master/carbon.png?raw=true" width=400 />
 
 <!--
 **RodrigoMardones/RodrigoMardones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
