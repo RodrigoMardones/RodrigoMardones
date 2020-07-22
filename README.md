@@ -1,12 +1,31 @@
 
 
-### Hello friend... Welcome to my github account !
+### Hello friend... Welcome to my github account 💻!
 
 I'm Rodrigo Mardones Aguilar. Engineer student, coffee lover, techonolgy enthusiast and fullstack developer at ['Watermelon SPA'](http://bewatermelon.com/)  🍉.
 
-![mytechnologies](carbon.png)
 
+```javascript 
 
+const myFavTechnologies = {
+	back: {
+    	javascript: true,
+      	python: true,
+      	typescript: true,
+      	node: true,
+      	django: true
+    },
+  	front : {
+    	reactjs : true,
+      	vuejs :true
+    },
+  	others: {
+    	docker : true,
+      	gcp : true
+    }
+}
+
+```
 <!--
 **RodrigoMardones/RodrigoMardones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
