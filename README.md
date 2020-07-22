@@ -1,6 +1,6 @@
-### Hi there 👋
 
-Hello friend... Welcome to my github account !
+
+### Hello friend... Welcome to my github account !
 
 I'm Rodrigo Mardones Aguilar. Engineer student, coffee lover, techonolgy enthusiast and fullstack developer at ['Watermelon SPA'](http://bewatermelon.com/)  🍉.
 
