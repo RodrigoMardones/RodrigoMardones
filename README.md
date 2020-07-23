@@ -1,22 +1,17 @@
 
 
-### Hello friend... Welcome to my github account 💻!
+Hello friend... Welcome to my Github account 💻!
+---
 
-I'm Rodrigo Mardones Aguilar. Engineer student, coffee lover, techonolgy enthusiast and fullstack developer at ['Watermelon SPA'](http://bewatermelon.com/)  🍉.
+<img align='right' src="https://github.com/RodrigoMardones/RodrigoMardones/blob/master/mystuff.png?raw=true" width=400 />
 
-<img src="https://github.com/RodrigoMardones/RodrigoMardones/blob/master/carbon.png?raw=true" width=400 />
+I'm Rodrigo Mardones Aguilar
 
-<!--
-**RodrigoMardones/RodrigoMardones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineer student, coffee lover, techonolgy enthusiast 
+and fullstack developer at ['Watermelon SPA'](http://bewatermelon.com/)  🍉.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### contact me 📱
+- 📧 : rodrigo.mardones.a@usach.cl
+- 💼 : https://www.linkedin.com/in/rodrigo-mardones-83090bb6/
