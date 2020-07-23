@@ -3,7 +3,7 @@
 Hello friend... Welcome to my Github account 💻!
 ---
 
-<img align='right' src="https://github.com/RodrigoMardones/RodrigoMardones/blob/master/mystuff.png?raw=true" width=400 />
+<img align='right' src="https://github.com/RodrigoMardones/RodrigoMardones/blob/master/mystuff.png?raw=true" width=500 />
 
 I'm Rodrigo Mardones Aguilar
 
