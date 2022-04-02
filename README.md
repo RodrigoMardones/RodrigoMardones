@@ -8,7 +8,7 @@ Hello friend... Welcome to my Github account 💻!
 I'm Rodrigo Mardones Aguilar
 
 Engineer student, coffee lover, techonolgy enthusiast 
-and fullstack developer at ['Watermelon SPA'](http://bewatermelon.com/)  🍉.
+and fullstack developer at ['Falabella Financiero'](https://www.linkedin.com/company/falabella-financiero).
 
 
 
