@@ -74,21 +74,9 @@ Basado en un análisis de mis **47 repositorios públicos** (~3.5M de bytes de c
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RodrigoMardones&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Rodrigo's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoMardones&layout=compact&theme=default" alt="Top languages">
-</p>
-
----
-
 ### 📬 Contacto
 
 - 📧 **Email:** rodrigo.mardones.a@usach.cl
 - 💼 **LinkedIn:** [rodrigo-mardones](https://www.linkedin.com/in/rodrigo-mardones-83090bb6/)
 - 🏢 **Empresa:** Falabella Financiero · Santiago, Chile
 
-<p align="center">
-  <em>"Always learning, always building."</em> ☕
-</p>
