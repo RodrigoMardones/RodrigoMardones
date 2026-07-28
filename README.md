@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>Engineering Student · Fullstack Developer · Coffee lover ☕ · Technology enthusiast</em>
+  <em>Computer Science Engineering · Fullstack Developer · Coffee lover ☕ · Technology enthusiast</em>
 </p>
 
 <p align="center">
